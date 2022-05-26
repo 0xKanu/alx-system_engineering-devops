@@ -5,3 +5,5 @@
 	>  3-listfiles displays the contents of the working directory in long format.
 	>  4-listmorefiles displays all the contents of the working directory including hidden files beginning with (.).
 	>  5-listfilesdigitonly displays all the contents of the working directory including hidden files beginning with (.) with user and group IDs displayed numerically.
+	>  6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory.
+	>  7-
