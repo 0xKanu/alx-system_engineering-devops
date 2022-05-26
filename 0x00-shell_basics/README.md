@@ -10,4 +10,5 @@
 	>  8-firstdelete deletes the file /tmp/my_first_directory/betty.
 	>  9-firstdirdelete deletes the directory /tmp/my_first_directory
 	>  10-back changes the working directory to the previous one.
-	>  11-.
+	>  11-lists displays the contents(including hidden files) of the working directory, its parent and ./boot in that order.
+	>  12-
