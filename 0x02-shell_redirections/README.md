@@ -7,4 +7,6 @@ Short Description on the tasks in the Shell Redirections Projects:
 * 5-firstlines displays the first 10 lines of /etc/passwd.
 * 6-third_line displays the third line of the **iacta**.
 * 7-
-* 8-cwd_state writes into the **file ls_cwd_content** the result of the **command ls -la**. 
+* 8-cwd_state writes into the **file ls_cwd_content** the result of the **command ls -la**.
+* 9-duplicate_last_line that duplicates the last line of the file iacta.
+* 10- 
