@@ -1,2 +1,2 @@
 #!/bin/bash
-rm --preserve-root -r *.js
+find -type f -mindepth 0 -name "*.js" | rm
